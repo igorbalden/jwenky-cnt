@@ -1,0 +1,14 @@
+nav {
+  /* body has 1rem padding all around */
+  margin-top: -1rem;
+}
+nav ul {
+  display: inline-flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 5px;
+}
+
+nav li {
+  margin: 5px 15px;
+}
