@@ -1,7 +1,10 @@
 # JWENKY-CNT
 
 Boilerplate React Spa. 
-Works with Jwenky-srv Express server.
+Works with Jwenky-srv Express server.  
+Presented at <a href="https://hackernoon.com/jwenky-an-express-api-server-with-user-authentication-ei283u1t" target="_blank">
+**Hackernoon**</a>  
+
 
 ### Usage
 1.  Clone the repo locally.  
@@ -17,7 +20,8 @@ $ npm start
 This is a simple Single Page Application built with React.  
 I built it to show the use of the Jwenky-srv server,  
 instead of describing how the endpoints should be used.  
-I used https://github.com/DennyScott/react-router-auth  
+I used <a href="https://github.com/DennyScott/react-router-auth" target="_blank">
+**Denny Scott's**</a> react application  
 as the base, and built upon it.  
 It uses functional components and hooks.  
 State management is done with context, and reducer.   
